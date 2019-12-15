@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 다우기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zhaohuabing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Istio</title>
       <link>https://zhaohuabing.com/tags/istio/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zhaohuabing.com/tags/istio/</guid>
       <description></description>
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>service Mesh</title>
+      <title>Service Mesh</title>
       <link>https://zhaohuabing.com/tags/service-mesh/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
